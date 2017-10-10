@@ -1,0 +1,78 @@
+html,body{
+    height: 100%;
+}
+#cover{
+    background: #222 url('../img/code.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    color: white;
+/*
+    text-align: center;
+    display: flex;
+    align-items: center;
+*/
+}
+
+#cover-caption{
+    width: 100%;
+    text-align: center;
+    padding: 2rem 0;;
+}
+#tagline{
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem 0;
+    background-color: #222;
+    color:white;
+}
+#believes{
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem 0;
+     background-color: #222;
+    color:white;
+    
+}
+.carousel-caption{
+    background: rgba(0,0,0,0.5);
+    
+    color: white;
+}
+.cards{
+    text-align: center;
+}
+#contact{
+    padding: 5rem 5rem;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+}
+
+#about{
+    padding: 5rem 0;
+}
+
+#about{
+    background: url('../img/niks_flowers.jpg') ;
+   background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+.about-text{
+    background: rgba(0,0,0,0.8);
+    color:white;
+    padding: 1.875rem;
+}
+#footer-main{
+    background: #222;
+    color: white;
+    padding: 2.5rem, 0;
+    font-size: 0.8rem;
+}
+.foot{
+    padding: 5rem 0;
+}
